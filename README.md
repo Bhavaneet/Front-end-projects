@@ -1,5 +1,2 @@
 # Temperature converter
-
-
-https://github.com/Bhavaneet/JavaScript-projects/assets/130878982/a0fd5bb4-42d3-479b-b9c7-c3ad5680ab78 width=500
-
+https://github.com/Bhavaneet/JavaScript-projects/assets/130878982/745ca72c-799c-4a8c-b72e-872095182e89
