@@ -1,3 +1,2 @@
 # Temperature converter
-
-![contain](https://github.com/Bhavaneet/JavaScript-projects/assets/130878982/634bf88e-87fa-4f52-a73e-07f0c7cb0143)
+https://github.com/Bhavaneet/JavaScript-projects/assets/130878982/d761a11a-9be1-4834-908c-b8a41595b16b
