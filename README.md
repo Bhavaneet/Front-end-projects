@@ -11,4 +11,5 @@ https://github.com/Bhavaneet/JavaScript-projects/assets/130878982/6b37ae27-bbc7-
 <br><br>
 
 # Expense tracker <br>
-![Screenshot 2024-03-25 080456](https://github.com/Bhavaneet/Front-end-projects/assets/130878982/d39a56ec-44f8-4e29-9a2f-8b1fd0a0bb79)
+
+![Screenshot 2024-03-25 080456](https://github.com/Bhavaneet/Front-end-projects/assets/130878982/1fcff8ab-ffe0-44f3-94cc-db99ecd4a6a2)
