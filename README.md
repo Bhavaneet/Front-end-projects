@@ -1,9 +1,5 @@
 # React landing page
-
-
-
-
-
+[Demo video](https://github.com/user-attachments/assets/72e24e0e-1f7d-44f4-8cfa-097b19dafcf5)
 <br><br>
 
 # Temperature converter
