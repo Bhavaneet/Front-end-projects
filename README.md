@@ -1,3 +1,7 @@
+# Web Enhancer
+<img width="560" alt="Screenshot 2024-02-18 225413" src="https://github.com/user-attachments/assets/e58d97ec-71f6-4327-9f5f-d17c87e34450">
+<br><br>
+
 # CS Quiz
 ![Screenshot 2024-07-19 204434](https://github.com/user-attachments/assets/4e07ee43-1dd4-4b94-8fdf-bf198d4d1f91)
 ![Screenshot 2024-07-19 204514](https://github.com/user-attachments/assets/2508f705-a341-43b7-aac5-803537067f8c)
