@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Accessibility Enhancer</title>
+  <style>
+    body {
+      width: 300px;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      box-sizing: border-box;
+    }
+    h1 {
+      font-size: 18px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .button {
+      display: block;
+      width: calc(100% - 20px);
+      padding: 10px;
+      margin: 10px auto;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    .button:hover {
+      background-color: #0056b3;
+      color: white;
+    }
+    .button#toggleContrast {
+      background-color: #007bff;
+      color: white;
+    }
+    .button#toggleTextToSpeech {
+      background-color: #007bff;
+      color: white;
+    }
+    .button#toggleContrast:hover {
+      background-color: #0056b3;
+    }
+    .button#toggleTextToSpeech:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Accessibility Enhancer</h1>
+  <button class="button" id="toggleContrast">Toggle High Contrast</button>
+  <button class="button" id="toggleTextToSpeech">Toggle Text-to-Speech</button>
+  <script src="popup.js"></script>
+</body>
+</html>
