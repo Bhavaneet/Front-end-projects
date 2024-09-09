@@ -15,6 +15,10 @@
 [Demo video](https://github.com/user-attachments/assets/72e24e0e-1f7d-44f4-8cfa-097b19dafcf5)
 <br><br>
 
+# Pong game
+<img width="560" alt="Screenshot 2024-02-18 225413" src="https://github.com/user-attachments/assets/95ae181b-5333-4d72-ac30-3f0bcebce46e">
+<br><br>
+
 # Temperature converter
 [Demo video](https://github.com/Bhavaneet/JavaScript-projects/assets/130878982/d761a11a-9be1-4834-908c-b8a41595b16b)
 <br><br>
