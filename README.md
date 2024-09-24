@@ -34,3 +34,7 @@
 # Expense tracker 
 <img width="560" alt="Screenshot 2024-02-18 225413" src="https://github.com/Bhavaneet/JavaScript-projects/assets/130878982/1fcff8ab-ffe0-44f3-94cc-db99ecd4a6a2">
 <br><br>
+
+# Tic-Tac-Toe
+<img width="560" alt="Screenshot 2024-02-18 225413" src="https://github.com/user-attachments/assets/64f02e1e-d06e-414f-ab43-c1ca246c0a88">
+<br><br>
